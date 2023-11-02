@@ -417,7 +417,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "sushiset3dtour",
+  "name": "МО_Подольск_пр-т Ленина, 154",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
